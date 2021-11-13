@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Yelp Clone</string>
+    <string name="search_hint">Cafe, Chinese, ...</string>
+    <string name="search_title">Find Restaurants</string>
 </resources>
